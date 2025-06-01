@@ -120,3 +120,6 @@
     @apply bg-background text-foreground;
   }
 }
+
+/* プラグインを使用する記述を追加 */
+@plugin "@tailwindcss/typography";
